@@ -1,0 +1,7 @@
+# Fixture uji (fiktif), kondisi TANPA promo.
+
+[HARGA]
+Basic | 1500000
+Pro   | 3000000
+
+[KUPON]

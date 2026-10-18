@@ -1,0 +1,8 @@
+# Fixture uji (fiktif), kondisi kupon AKTIF, berakhir jauh di masa depan.
+
+[HARGA]
+Basic | 1500000
+Pro   | 3000000
+
+[KUPON]
+CONTOH10 | 10 | Basic, Pro | 2030-12-31 23:59

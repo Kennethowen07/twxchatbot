@@ -1,0 +1,21 @@
+# Rahasia dan lingkungan
+.env
+.venv/
+__pycache__/
+
+# Data bisnis privat (versi contoh *.example.* tetap ikut repo)
+prompt.md
+knowledge.md
+spec.md
+harga_promo.txt
+uji/pertanyaan_uji.md
+uji/promo_*.txt
+!uji/promo_*.example.txt
+*.docx
+*.mp4
+test_model.py
+
+# Hasil runtime
+rag/
+logs/
+uji/hasil/

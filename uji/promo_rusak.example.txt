@@ -1,0 +1,7 @@
+# Fixture uji (fiktif), kondisi file RUSAK: harga Basic bukan angka saja.
+
+[HARGA]
+Basic | 1,5 juta
+Pro   | 3000000
+
+[KUPON]

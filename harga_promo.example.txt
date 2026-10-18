@@ -1,0 +1,13 @@
+# Contoh harga dan kupon (data fiktif). Salin menjadi harga_promo.txt lalu isi data asli.
+# Dibaca ulang setiap pesan, jadi perubahan langsung berlaku tanpa restart.
+# Baris yang diawali # diabaikan.
+
+[HARGA]
+# Format: paket | harga per tahun (angka saja)
+Basic | 1500000
+Pro   | 3000000
+
+[KUPON]
+# Format: kode | diskon % | paket yang berlaku (pisah koma) | berakhir WIB (YYYY-MM-DD HH:MM)
+# Tidak ada promo = tidak ada baris kupon. Kupon yang sudah lewat dianggap berakhir oleh kode.
+CONTOH10 | 10 | Basic, Pro | 2030-12-31 23:59

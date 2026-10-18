@@ -1,0 +1,8 @@
+# Fixture uji (fiktif), kondisi kupon LEWAT, tidak ada kupon aktif.
+
+[HARGA]
+Basic | 1500000
+Pro   | 3000000
+
+[KUPON]
+LAMA5 | 5 | Basic | 2026-01-01 12:00
